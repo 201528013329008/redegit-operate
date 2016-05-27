@@ -1,5 +1,6 @@
 # redegit-operate
 注册表操作实例
+http://blog.sina.com.cn/s/blog_4ac0a0d30100e3vg.html
 C语言注册表操作实例
 例子1：
 #include <stdio.h>
@@ -31,6 +32,8 @@ if(ret)
 else printf("%s is exisis",modlepath);
 return 0;
 }
+
+
 例子2：
 #include <windows.h >
 #include <stdio.h >
